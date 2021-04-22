@@ -1,0 +1,103 @@
+.body{
+    margin: 0%;
+    padding: 0%;
+}
+.half-width{
+    width: 40%;
+    float: left;
+    margin: 5%;
+}
+.half-width img {
+    width: 50%;
+    padding-left: 80px;
+}
+.half-width h2{
+    font-size: 50px;
+}
+.half-width h3{
+    font-size: 45px;
+}
+.orange-span{
+    color: orange;
+}
+.upper-body{
+    background-image: url(image/background.png);
+    background-repeat: no-repeat;
+    height: 490px;
+}
+.half-width a{
+    font-weight: 700;
+    background-image: linear-gradient(45deg, yellow,red);
+    border-radius: 3px;
+    text-decoration: none;
+    padding: 13px 16px;
+}
+.mid-body div{
+    width: 40%;
+    float: right;
+    height: 490px;
+    margin: 5%;
+}
+.mid-width img{
+    width: 60%;
+    padding-left: 60px;
+}
+.mid-width a{
+    font-weight: 700;
+    background-image: linear-gradient(45deg, yellow,red);
+    border-radius: 3px;
+    text-decoration: none;
+    padding: 13px 16px;
+}
+.work-image{
+   width: auto;
+   height: 500px;
+}
+.work-image img{
+   width: 30%;
+   margin: 1%;
+   padding-left: 13px;
+}
+.latest-work h2{
+    text-align: center;
+    font-weight: bold;
+    font-size: 33px;
+}
+.message h1{
+    font-size: 50px;
+    text-align: center;
+    color: orange;
+}
+.message h2{
+    font-size: 40px;
+    color: red;
+    text-align: center;
+}
+.message  h3{
+    font-size: 30px;
+    text-align: center;
+    color: blue;
+}
+.message p{
+    text-align: center;
+    
+}
+.sent{
+    text-align: center;
+    background-image: linear-gradient(45deg, orange,red);
+    width: 500px;
+    height: 100px;
+    border-radius: 15px;
+    margin: auto;
+}
+.sent a{
+    text-decoration: none;
+}
+span{
+    color: black;
+    font-size: 20px;
+    margin: 5%;
+}
+footer{
+    text-align: center;
+}
